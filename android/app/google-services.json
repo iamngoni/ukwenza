@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033823688825",
+    "firebase_url": "https://ukwenza-5e82f.firebaseio.com",
+    "project_id": "ukwenza-5e82f",
+    "storage_bucket": "ukwenza-5e82f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033823688825:android:b444092ffba45bb0d15ca8",
+        "android_client_info": {
+          "package_name": "zw.co.iamngoni.ukwenza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033823688825-kmtmdd29225u3edtt95lnr6v9j4i3iqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADRxs1masbWD-FwqNysq3htHwKPeG-KXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033823688825-kmtmdd29225u3edtt95lnr6v9j4i3iqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
