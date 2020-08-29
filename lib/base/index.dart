@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:ukwenza/pages/index.dart';
 
 class Base extends StatefulWidget {
   @override
